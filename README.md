@@ -1,5 +1,3 @@
-# Heatmap Analyser - Game Level Design Heatmap Analysis Tool
+# Heatmap Analyser for Unity 5 - Game Level Design Heatmap Analysis Tool
 
 ![Banner](https://adrian-design.com/img/projects/heatmap/header.png)
-
-[Project Link](https://adrian-design.com/projects/40)
